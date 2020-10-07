@@ -1,0 +1,7 @@
+/.idea/
+/packages/
+/Testing/bin/
+/Testing/obj/
+/ToTest/obj/
+*.sln
+*.user
